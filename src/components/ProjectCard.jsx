@@ -10,8 +10,7 @@ export default function ProjectCard({ title, desc, tech, image }) {
 
         <div className="project-card-content">
           <h3>{title}</h3>
-          <p>{tech}</p>
-          <p>{desc}</p>
+          <p className="tech">{tech}</p>
 
           <button className="btn primary" onClick={() => setOpen(true)}>
             Ver Projeto
