@@ -13,7 +13,7 @@ export default function Projects() {
 O design foi pensado para guiar o usuário de forma natural, destacando os pontos principais e incentivando a ação. Trabalhei com uma estrutura visual limpa, tipografia bem definida e responsividade completa.
 
 O projeto demonstra minha capacidade de alinhar design e desenvolvimento para criar páginas eficientes e visualmente atraentes."
-          tech="HTML • CSS • JavaScript"
+          tech="HTMl • CSS • JavaScript"
           image="/images/logoluiz.png"
         />
 
